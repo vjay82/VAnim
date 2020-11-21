@@ -1,3 +1,10 @@
+Uploaded on request: The sources of a program written in 2006 to animate buttons in Windows programs like MacOS did in that day. It is long abandoned since then, maybe usable for learning purposes.
+
+The original readme file:
+
+----
+
+
 Version 0.0.25 ALPHA
 
 1. Installation
@@ -81,12 +88,12 @@ Also it was written as a hobby on a weekend, so dont expect professional support
 
 This Program is released under the Beer-Ware-Licence, this is the original text:
 
-* ---------------------------------------------------------------------------- 
-* "THE BEER-WARE LICENSE" (Revision 42) 
-* <phk@login.dkuug.dk> wrote this file. As long as you retain this notice you 
-* can do whatever you want with this stuff. If we meet some day, and you think 
-* this stuff is worth it, you can buy me a beer in return. Poul-Hanning Kamp 
-* ---------------------------------------------------------------------------- 
+ ---------------------------------------------------------------------------- 
+ "THE BEER-WARE LICENSE" (Revision 42) 
+ <phk@login.dkuug.dk> wrote this file. As long as you retain this notice you 
+ can do whatever you want with this stuff. If we meet some day, and you think 
+ this stuff is worth it, you can buy me a beer in return. Poul-Hanning Kamp 
+ ---------------------------------------------------------------------------- 
 
 But give it to me instead of him :).
 
